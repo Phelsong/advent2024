@@ -1,5 +1,3 @@
-from operator import le
-
 
 with open("input.tsv", "r") as buff:
     le = []
